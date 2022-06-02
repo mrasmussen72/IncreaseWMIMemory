@@ -7,6 +7,7 @@ $success = $false
 $memPerHostSet = $false
 $memAllHostsSet = $false
 $sb = New-object System.Text.StringBuilder
+$temp = "HelloWorld"
 
 function Write-Log 
 {
