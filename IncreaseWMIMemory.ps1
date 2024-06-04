@@ -1,3 +1,4 @@
+#comment
 $hostname = "localhost"
 [uint32]$memoryPerHost = 1073741824 #equal to 1024 MB.  This is the number of bytes
 [uint32]$memoryAllHosts = 2147483648 # equal to 2048 MB.  This is the number of bytes
